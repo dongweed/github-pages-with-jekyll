@@ -1,5 +1,4 @@
 ---
-title: "2021-08-6 MarkDown"
+title: "2021-08-06 MarkDown"
+date: 2021-08-06
 ---
-
-RICKANDMORTY
